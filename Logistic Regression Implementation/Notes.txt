@@ -1,0 +1,15 @@
+The accuracy in notebook is different from the accuracy on kaggle because
+
+The accuracy in notebook is related to my_submission(gender_submission) 
+
+my_submission(assignment 1 submission) gives 75-76 % on kaggle
+
+so if my logistic_submission gives 92-100% accuracy of my_submission
+(that means it is so closed to my_submission)
+
+then my logistic_submission gives 75-76% on kaggle like my_submission
+
+
+*** Notes above to explain what I mean with the accuracy in my notebook.
+
+Kaggle Username : amanyabdelhamid11   
